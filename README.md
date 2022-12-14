@@ -18,6 +18,15 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Vc+Video+Music+Bot+Based+On+Telethon%E2%9D%A4%EF%B8%8F">
 </p>
 
+## Deploy to Heroku
+Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
+
+## Deploy to Okteto
+Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
+
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/codewithtyagi/light)
 
 
 
