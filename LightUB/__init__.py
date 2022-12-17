@@ -1,9 +1,9 @@
-# Light UserBot
-# Copyright (C) 2021-2022 CodeWithTyagi
+# akki UserBot
+# Copyright (C) 2021-2022 Akki tyagi
 #
-# This file is a part of < https://github.com/CodeWithTyagi/Light >
+# This file is a part of < https://github.com/manuop1234/NOVALIGHT-USERBOT >
 # Please read the GNU Affero General Public License in
-# https://www.github.com/CodeWithTyagi/Light/blob/main/LICENSE
+# https://github.com/manuop1234/NOVALIGHT-USERBOT/blob/main/LICENSE
 
 import os
 import sys
