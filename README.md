@@ -5,7 +5,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h1 align="center">
-  <b>𝙇𝙄𝙂𝙃𝙏 - 𝙐𝙎𝙀𝙍𝘽𝙊𝙏</b>
+  <b>  𝙉𝙊𝙑𝘼 𝙇𝙄𝙂𝙃𝙏- 𝙐𝙎𝙀𝙍𝘽𝙊𝙏</b>
 </h1>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
