@@ -53,7 +53,7 @@ def text_to_url(event):
 
 _buttons = {
     "otvars": {
-        "text": "Other Variables to set for @CodeByTyagi:",
+        "text": "Other Variables to set for @TGR_HACKER:",
         "buttons": [
             [
                 Button.inline("Tᴀɢ Lᴏɢɢᴇʀ", data="taglog"),
@@ -141,7 +141,7 @@ _buttons = {
         ],
     },
     "chatbot": {
-        "text": "From This Feature U can chat with ppls Via ur Assistant Bot.\n[More info](https://t.me/CodeByTyagi/2)",
+        "text": "From This Feature U can chat with ppls Via ur Assistant Bot.\n[More info](https://t.me/TGR_HACKER)",
         "buttons": [
             [
                 Button.inline("Cʜᴀᴛ Bᴏᴛ  Oɴ", data="onchbot"),
@@ -164,7 +164,7 @@ _buttons = {
         ],
     },
     "oofdm": {
-        "text": "About [Dual Mode](https://t.me/CodeByTyagi/18)",
+        "text": "About [Dual Mode](https://t.me/TGR_HACKER)",
         "buttons": [
             [
                 Button.inline("Dᴜᴀʟ Mᴏᴅᴇ Oɴ", "dmof"),
