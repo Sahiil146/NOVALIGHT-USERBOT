@@ -33,7 +33,7 @@ if Owner_info_msg is None:
 
 **Message Forwards** - {udB.get_key("PMBOT")}
 
-**Light Bot - [v{__version__}](https://github.com/CodeWithTyagi/Light), powered by @CodeByTyagi**
+**NOVA OP LIGHT Bot - [v{__version__}](https://github.com/manuop1234/NOVALIGHT-USERBOT), powered by @TGR_hacker**
 """
 
 
@@ -72,7 +72,7 @@ async def own(event):
         mention=event.sender.mention, me=inline_mention(light_bot.me)
     )
     if custom_info:
-        msg += "\n\n• Powered by **@CodeByTyagi**"
+        msg += "\n\n• Powered by **@TGR_HACKER**"
     await event.edit(
         msg,
         buttons=[Button.inline("Close", data="closeit")],
