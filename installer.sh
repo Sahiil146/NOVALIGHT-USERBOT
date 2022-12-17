@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-REPO="https://github.com/CodeWithTyagi/Light.git"
+REPO="https://github.com/manuop1234/NOVALIGHT-USERBOT"
 DIR="/root/Light"
 
 spinner(){
