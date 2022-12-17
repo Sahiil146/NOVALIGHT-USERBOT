@@ -10,7 +10,7 @@ import re
 from . import *
 
 STRINGS = {
-    1: """🎇 **Thanks for Deploying Light Userbot!**
+    1: """🎇 **Thanks for Deploying AKKI TYAGI Userbot!**
 
 • Here, are the Some Basic stuff from, where you can Know, about its Usage.""",
     2: """🎉** About light**
@@ -20,25 +20,25 @@ STRINGS = {
 ❣ Made by **@CodeByTyagi**""",
     3: """**💡• FAQs •**
 
--> [Username Tracker](https://t.me/lightUpdates/24)
--> [Keeping Custom Addons Repo](https://t.me/lightUpdates/28)
--> [Disabling Deploy message](https://t.me/lightUpdates/27)
--> [Setting up TimeZone](https://t.me/lightUpdates/22)
--> [About Inline PmPermit](https://t.me/lightUpdates/21)
--> [About Dual Mode](https://t.me/lightUpdates/18)
--> [Custom Thumbnail](https://t.me/lightUpdates/13)
--> [About FullSudo](https://t.me/lightUpdates/11)
--> [Setting Up PmBot](https://t.me/lightUpdates/2)
--> [Also Check](https://t.me/lightUpdates/14)
+-> [Username Tracker](https://t.me/TGR_HACKER)
+-> [Keeping Custom Addons Repo](https://t.me/TGR_HACKER)
+-> [Disabling Deploy message](https://t.me/TGR_HACKER)
+-> [Setting up TimeZone](https://t.me/TGR_HACKER)
+-> [About Inline PmPermit](https://t.me/TGR_HACKER)
+-> [About Dual Mode](https://t.me/TGR_HACKER)
+-> [Custom Thumbnail](https://t.me/TGR_HACKER)
+-> [About FullSudo](https://t.me/TGR_HACKER)
+-> [Setting Up PmBot](https://t.me/TGR_HACKER)
+-> [Also Check](https://t.me/TGR_HACKER)
 
 **• To Know About Updates**
-  - Join @CodeByTyagi.""",
+  - Join @TGR_HACKER.""",
     4: f"""• `To Know All Available Commands`
 
   - `{HNDLR}help`
   - `{HNDLR}cmds`""",
     5: """• **For Any Other Query or Suggestion**
-  - Move to **@CodeWithTyagi**.
+  - Move to **@TGR_HACKER**.
 
 • Thanks for Reaching till END.""",
 }
