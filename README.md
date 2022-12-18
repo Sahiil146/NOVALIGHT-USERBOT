@@ -26,7 +26,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 ## Deploy to Okteto
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
 
-[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/codewithtyagi/light)
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/manuop1234/NOVALIGHT-USERBOT)
 
 
 
